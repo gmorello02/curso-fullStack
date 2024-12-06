@@ -1,2 +1,2 @@
 # curso-fullStack
-El proecto en si esta en la rama master
+Cada rama tiene el nombre de la tarea correspondiente.
